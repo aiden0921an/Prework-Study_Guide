@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-To use the prework study guide, start by opening the console in the webpage. This will give you a random selection for what topic to study first! These topics include HTML,CSS,Git,and JavaScript. 
+To use the prework study guide, start by opening the console in the webpage. This will give you a random selection for what topic to study first! These topics include HTML,CSS,Git and JavaScript. 
 
 ![Image of the Prework Study Guide with the console open](assets/Prework Study Guide Console.png)
 
